@@ -2,7 +2,7 @@ import Skill from "./Skill";
 
 const skills = [
   {
-    name: "JavaScript & Typescript",
+    name: "JavaScript & TypeScript",
     level: "advanced",
     color: "#F8A2A2",
   },
@@ -12,12 +12,12 @@ const skills = [
     color: "#C5DBC4",
   },
   {
-    name: "React Redux",
+    name: "React",
     level: "advanced",
     color: "#C5DBC4",
   },
   {
-    name: "PostgresSQL, MongoDB",
+    name: "PostgresSQL & MongoDB",
     level: "beginner",
     color: "#C5DBC4",
   },
@@ -27,12 +27,12 @@ const skills = [
     color: "#F2D7E8",
   },
   {
-    name: "Node.JS",
+    name: "Node.js",
     level: "advanced",
     color: "#F8A2A2",
   },
   {
-    name: "NestJs",
+    name: "NestJS",
     level: "intermediate",
     color: "#F2D7E8",
   },
