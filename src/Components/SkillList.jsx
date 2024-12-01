@@ -22,7 +22,7 @@ const skills = [
     color: "#C5DBC4",
   },
   {
-    name: "Prisma",
+    name: "AWS",
     level: "beginner",
     color: "#F2D7E8",
   },
@@ -32,8 +32,8 @@ const skills = [
     color: "#F8A2A2",
   },
   {
-    name: "NestJS",
-    level: "intermediate",
+    name: "Nest.js",
+    level: "beginner",
     color: "#F2D7E8",
   },
 ];
