@@ -19,16 +19,19 @@ export default function Intro() {
         </li>
       </ul>
       <section className="profile__description">
-        {/* <p>
-          {`With 8 years of experience in marketing and a passion for technology, I'm a versatile full-stack web developer. I blend technical expertise with a creative mindset to deliver innovative digital solutions.`}
-        </p> */}
+        <p>{`Not just your ordinary full-stack web developer.`}</p>
         <p>
-          {`Not just your ordinary full-stack web developer. When not coding, you'll
-          find me whipping up dishes in the kitchen or capturing the beautiful moments through my lens on the streets.`}
+          {`With 8 years of experience in marketing and a passion for technology, I'm eager to blend technical expertise with a creative mindset to deliver innovative digital solutions. `}
         </p>
         <p>
+          {`
+          When not coding, you'll
+          find me whipping up dishes in the kitchen or capturing the beautiful moments through my lens on the streets.`}
+        </p>
+
+        <p>
           {`Tech, cooking, and photography are my passions,
-          and I bring that same fervor to every project I tackle. `}
+          and I bring that same fervor to every project I tackle.`}
         </p>
       </section>
     </div>

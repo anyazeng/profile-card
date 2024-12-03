@@ -60,8 +60,7 @@ h1 {
   height: 100%;
   width: 100%;
   background-color: rgb(248 248 240);
-  border-left: 2px solid rgb(103, 111, 111);
-  /* border-left: 2px solid rgb(15, 229, 207); */
+  border-left: 1px solid rgb(103, 111, 111);
   animation: typing 3s steps(12) infinite;
 }
 
